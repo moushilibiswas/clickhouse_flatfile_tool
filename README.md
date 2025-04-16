@@ -7,6 +7,17 @@ ClickHouse), handle JWT token-based authentication for ClickHouse as a source,
 allow users to select specific columns for ingestion, and report the total number of 
 records processed upon completion.
 
+# Frontend Implementation (React)
+
+# 1. Set up React project
+
+In PyCharm terminal:
+```bash
+npx create-react-app frontend
+cd frontend
+npm install axios react-bootstrap bootstrap @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons
+
+
 # Running the Application
 
 1. **Start the backend**:
