@@ -1,0 +1,4 @@
+you are senior level coding expert in web application ,
+I want you to do a project by using the following instructions and show each steps and code and necessary installations for pycharm ide
+
+<< instructions >>
