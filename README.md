@@ -17,6 +17,8 @@ npx create-react-app frontend
 cd frontend
 npm install axios react-bootstrap bootstrap @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons
 
+ctrl+c main.js and ctrl+v into /frontend/src/App.js
+
 
 # Running the Application
 
